@@ -1,0 +1,7 @@
+@InProceedings{Kang_2018_ECCV,
+author = {Kang, Sunghun and Kim, Junyeong and Choi, Hyunsoo and Kim, Sungjin and Yoo, Chang D.},
+title = {Pivot Correlational Neural Network for Multimodal Video Categorization},
+booktitle = {The European Conference on Computer Vision (ECCV)},
+month = {September},
+year = {2018}
+}
