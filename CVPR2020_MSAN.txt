@@ -1,0 +1,7 @@
+@InProceedings{Kim_2020_CVPR,
+author = {Kim, Junyeong and Ma, Minuk and Pham, Trung and Kim, Kyungsu and Yoo, Chang D.},
+title = {Modality Shifting Attention Network for Multi-Modal Video Question Answering},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
