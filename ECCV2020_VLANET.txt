@@ -1,0 +1,7 @@
+@InProceedings{Ma_2020_ECCV,
+author = {Ma, Minuk and Yoon, Sunjae and Kim, Junyeong and Lee, Youngjoon and Kang, Sunghun and Yoo, Chang D.},
+title = {VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval},
+booktitle = {Proceedings of European Conference on Computer Vision (ECCV)},
+month = {August},
+year = {2020}
+}
