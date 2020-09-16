@@ -1,0 +1,7 @@
+@InProceedings{AdvMat_2019,
+author = {Jung, Younghoon and Hong, SeongKwang and Wang, Heeseung and Han, Jaehyun and Pham, Trung X. and Park, Hyunsin and Kim, Junyeong and Kang, Sunghun and Yoo, Chang D. and Lee, Keonjae},
+title = {Flexible Piezoelectric Acoustic Sensors and Machine Learning for Speech Processing},
+booktitle = {Advanced Materials},
+month = {October},
+year = {2019}
+}
