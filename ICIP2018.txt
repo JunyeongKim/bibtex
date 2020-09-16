@@ -1,0 +1,9 @@
+@INPROCEEDINGS{8451493,  
+author={O. C. {Kwon} and J. {Kim} and C. D. {Yoo}},  
+booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},   
+title={Action Recognition: First-and Second-Order 3D Feature in Bi-Directional Attention Network},   
+year={2018},  
+volume={},  
+number={},  
+pages={3453-3457},
+}
