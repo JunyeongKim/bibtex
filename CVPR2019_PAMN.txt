@@ -1,0 +1,7 @@
+@InProceedings{Kim_2019_CVPR,
+author = {Kim, Junyeong and Ma, Minuk and Kim, Kyungsu and Kim, Sungjin and Yoo, Chang D.},
+title = {Progressive Attention Memory Network for Movie Story Question Answering},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}
