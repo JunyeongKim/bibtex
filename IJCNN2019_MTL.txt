@@ -1,0 +1,7 @@
+@InProceedings{Kim_2019_IJCNN,
+author = {Kim, Junyeong and Ma, Minuk and Kim, Kyungsu and Kim, Sungjin and Yoo, Chang D.},
+title = {Gaining Extra Supervision via Multi-task Learning for Multi-modal Video Question Answering},
+booktitle = {Internation Joint Conference on Neural Networks (IJCNN)},
+month = {July},
+year = {2019}
+}
