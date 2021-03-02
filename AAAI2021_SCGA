@@ -1,0 +1,7 @@
+@InProceedings{Kim_2021_AAAI,
+author = {Kim, Junyeong and Yoon, Sunjae and Kim, Dahyun and Yoo, Chang D.},
+title = {Structured Co-reference Graph Attention for Video-grounded Dialogue},
+booktitle = {Proceedings of AAAI Conference on Artificial Intelligence (AAAI)},
+month = {Feb},
+year = {2021}
+}
